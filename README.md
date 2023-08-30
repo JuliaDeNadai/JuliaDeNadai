@@ -14,7 +14,7 @@
   <div>
    <p>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,express,materialui,html,css,git,c,mysql,postgres" />
+     <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,typescript,js,express,materialui,html,css,git,mysql,postgres" />
     </a>
    </p>
   </div>
@@ -25,9 +25,6 @@
    <p>
     <a href="https://github.com/JuliaDeNadai/savourAPI">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaDeNadai&repo=savourAPI&show_icons=true&theme=dracula&layout=compact" />
-    </a>
-    <a href="https://github.com/JuliaDeNadai/iPostsWEB">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaDeNadai&repo=iPostsWEB&show_icons=true&theme=dracula&layout=compact" />
     </a>
    </p>
   </div>
