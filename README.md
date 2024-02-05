@@ -14,7 +14,7 @@
   <div>
    <p>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,typescript,js,express,materialui,html,css,git,mysql,postgres" />
+     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,js,express,react,materialui,html,css,git,mysql,postgres" />
     </a>
    </p>
   </div>
