@@ -26,6 +26,7 @@
  #### :books: Personal projects I'm working on
 
  <div>
+   <p>This is an API responsible to store all your everyday life applications</p>
    <p>
     <a href="https://github.com/JuliaDeNadai/keyguard-api">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaDeNadai&repo=keyguard-api&show_icons=true&theme=dracula&layout=compact" />
