@@ -27,8 +27,8 @@
 
  <div>
    <p>
-    <a href="https://github.com/JuliaDeNadai/savourAPI">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaDeNadai&repo=savourAPI&show_icons=true&theme=dracula&layout=compact" />
+    <a href="https://github.com/JuliaDeNadai/keyguard-api">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaDeNadai&repo=keyguard-api&show_icons=true&theme=dracula&layout=compact" />
     </a>
    </p>
   </div>
